@@ -1,0 +1,34 @@
+Mudeer Desktop Application License Agreement
+
+IMPORTANT: PLEASE READ THIS LICENSE AGREEMENT CAREFULLY BEFORE USING THE MUDEER DESKTOP APPLICATION ("Mudeer"). BY USING MUDEER, YOU AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE AGREEMENT.
+
+1. License Grant:
+Subject to the terms and conditions of this Agreement, SoftwareJewels ("Company") hereby grants you a limited, non-exclusive, non-transferable license to use Mudeer for your internal business purposes. This license is granted solely for use by employees of SoftwareJewels.
+
+2. Restrictions:
+You may not: (a) modify, adapt, translate, or create derivative works based upon Mudeer; (b) reverse engineer, decompile, disassemble, or otherwise attempt to discover the source code of Mudeer; (c) rent, lease, sublicense, distribute, or otherwise transfer rights to Mudeer; (d) remove any proprietary notices or labels on Mudeer; or (e) use Mudeer for any unlawful purpose or in violation of any applicable laws or regulations.
+
+3. Data Collection and Privacy:
+Mudeer may collect data, including but not limited to, screenshots and activity logs, for the purpose of measuring productivity and enhancing efficiency within your organization. By using Mudeer, you consent to such data collection and acknowledge that this information may be used by Company to gain insights into staff work patterns. Company is committed to protecting your privacy and will handle all data collected in accordance with its Privacy Policy.
+
+4. Intellectual Property:
+Mudeer and all intellectual property rights therein are and shall remain the exclusive property of Company. Nothing in this Agreement shall be construed to transfer any intellectual property rights to you.
+
+5. Disclaimer of Warranty:
+MUDEER IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, COMPANY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+6. Limitation of Liability:
+IN NO EVENT SHALL COMPANY BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUES, WHETHER INCURRED DIRECTLY OR INDIRECTLY, OR ANY LOSS OF DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, ARISING OUT OF YOUR USE OR INABILITY TO USE MUDEER, EVEN IF COMPANY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+7. Termination:
+This Agreement shall remain in effect until terminated by either party. Company may terminate this Agreement at any time if you breach any provision of this Agreement. Upon termination, you shall cease all use of Mudeer and destroy all copies thereof.
+
+8. Governing Law:
+This Agreement shall be governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of laws principles.
+
+9. Entire Agreement:
+This Agreement constitutes the entire agreement between you and Company concerning the subject matter hereof, and supersedes all prior or contemporaneous agreements, representations, warranties, and understandings, whether oral or written.
+
+By using Mudeer, you agree to be bound by the terms of this Agreement. If you do not agree to the terms of this Agreement, do not use Mudeer.
+
+SoftwareJewels
