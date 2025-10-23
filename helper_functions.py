@@ -23,7 +23,7 @@ def ActiveTabs():
             active_window = gw.getActiveWindow()
             if active_window:
                 Timer.CurrentTab = active_window
-                print(active_window)
+                # print(active_window)
             else:
                 Timer.CurrentTab = None
         else:

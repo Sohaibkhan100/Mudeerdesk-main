@@ -113,4 +113,77 @@ def post_clicks(imagepath, activeTab, shiftStatus,user_id):
             print(f"Failed to send screenshot: {response.status_code}")
     except Exception as e:
         print(f"Error in post_clicks: {e}")
-       
+    
+    
+def checkout(user_id):
+    api_url = "https://mudeerapi.abasa.com/user/attendance/checkout"
+    data = {
+        "user_id": user_id,
+    }
+    try:
+        headers = {
+            "Authorization": f"Bearer {Timer.bearer_token}",
+        }
+        response = requests.post(api_url, json=data, headers=headers)
+        # response.raise_for_status()
+        print(api_url)
+        print(data)
+    except requests.exceptions.RequestException as e:
+        messagebox.showerror("Error", f"Please check your internet connection. {str(e)}")
+        return
+
+    if response.status_code == 200:
+        response_data = response.json()
+        print(response_data['message'])
+    else:
+        print("Failed to checkout")
+        print(response.status_code)
+        
+def start_break(user_id):
+    api_url = "https://mudeerapi.abasa.com/user/attendance/break/start"
+    data = {
+        "user_id": user_id,
+    }
+    try:
+        headers = {
+            "Authorization": f"Bearer {Timer.bearer_token}",
+        }
+        response = requests.post(api_url, json=data, headers=headers)
+        # response.raise_for_status()
+        print(api_url)
+        print(data)
+    except requests.exceptions.RequestException as e:
+        messagebox.showerror("Error", f"Please check your internet connection. {str(e)}")
+        return
+
+    if response.status_code == 200:
+        response_data = response.json()
+        print(response_data['message'])
+    else:
+        print("Failed to checkout")
+        print(response.status_code)
+        
+        
+def stop_break(user_id):
+    api_url = "https://mudeerapi.abasa.com/user/attendance/break/stop"
+    data = {
+        "user_id": user_id,
+    }
+    try:
+        headers = {
+            "Authorization": f"Bearer {Timer.bearer_token}",
+        }
+        response = requests.post(api_url, json=data, headers=headers)
+        # response.raise_for_status()
+        print(api_url)
+        print(data)
+    except requests.exceptions.RequestException as e:
+        messagebox.showerror("Error", f"Please check your internet connection. {str(e)}")
+        return
+
+    if response.status_code == 200:
+        response_data = response.json()
+        print(response_data['message'])
+    else:
+        print("Failed to checkout")
+        print(response.status_code)
