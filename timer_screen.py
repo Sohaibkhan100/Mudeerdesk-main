@@ -387,7 +387,7 @@ class Timer:
 
         self.load_state()  # Load saved state when initializing]
 
-        # self.pusing_eventActivity()
+        self.pusing_eventActivity()
         self.posting_clicks()
 
         self.update_timer()
@@ -488,7 +488,7 @@ class Timer:
             with open(state_file, "wb") as f:
                 f.write(encrypt_data(json.dumps(state), fernet_key))
             set_permissions(state_file)  # Set file permissions after writing
-            checkout(Timer.User_id);
+            checkout(Timer.User_id)
             print("State saved.")
             
             # Reset first_start flag when shift ends
