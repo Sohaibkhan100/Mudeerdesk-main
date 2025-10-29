@@ -32,7 +32,7 @@ if __name__ == "__main__":
     
         
     elif sys.platform.startswith('darwin'):
-        root.iconphoto(True, tk.PhotoImage(file="mudeerrrrrr.png")) 
+        root.iconphoto(True, tk.PhotoImage(file="TaskBarLogo.png")) 
         
     root.protocol("WM_DELETE_WINDOW", lambda: LoginApp.on_Login_closing(root))
     root.mainloop()
